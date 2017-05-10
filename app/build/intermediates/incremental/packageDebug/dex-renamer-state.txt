@@ -1,0 +1,7 @@
+#Mon May 08 23:45:58 EDT 2017
+base.0=/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_94f5f28dfcad5c49aa0aefc69ddeb94155cb39d9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9bbc1423b9e3b67d981efd682f2c518dc9bc1e6a/classes.dex
+base.1=/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9bbc1423b9e3b67d981efd682f2c518dc9bc1e6a
+file.0=/Users/samcholo/Desktop/MobileAppsFinalProj-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_94f5f28dfcad5c49aa0aefc69ddeb94155cb39d9/classes.dex
